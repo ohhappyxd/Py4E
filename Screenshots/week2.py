@@ -1,0 +1,1 @@
+print('Greetings from week 2')
